@@ -1,0 +1,13 @@
+To do
+
+New features
+Allow badges to be awarded for userpoints
+Give option to allow badge to be awarded for 
+ - response to a specific post
+ - posting a specific kind of post, optionally in a specific container
+ - posting with a specific title
+ - posting with a specific tag
+Make openbadge export view
+
+Fix  
+Who-can-award
